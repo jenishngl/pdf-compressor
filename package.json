@@ -1,0 +1,27 @@
+{
+  "name": "pdf-compressor",
+  "version": "1.0.0",
+  "description": "Online PDF compressor app",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenishngl/pdf-compressor.git"
+  },
+  "keywords": [
+    "pdf-compress",
+    "pdf",
+    "compress",
+    "compressor",
+    "pdf-compressor"
+  ],
+  "author": "Jenish Jerome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenishngl/pdf-compressor/issues"
+  },
+  "homepage": "https://github.com/jenishngl/pdf-compressor#readme"
+}
